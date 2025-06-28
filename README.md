@@ -78,13 +78,6 @@ Por hoje é só\! Espero que este vislumbre do JavaScript no backend tenha te en
 
 "Mal feito, feito\!"
 
-**(Música de encerramento)**
-
 -----
 
-## Ouça o Podcast\!
-
-<audio controls>
-  <source src="https://github.com/igorandrade23/podcast-by-ia/raw/refs/heads/main/podcast.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
+O áudio foi gerado pela ferramenta https://elevenlabs.io/ e está na raiz do projeto no arquivo podcast.mp3
